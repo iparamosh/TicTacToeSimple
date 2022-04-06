@@ -1,4 +1,3 @@
-
 public class Checks {
 	public static boolean isThereAnyVerticalWinner(int [][] moves) {
 		  for (int row = 0; row < moves.length; row++)
